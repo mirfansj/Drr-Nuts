@@ -1,0 +1,9 @@
+@media (max-width:1399px) {
+    .navbar-collapse{
+        position: relative;
+    }
+.top-banner {
+    height: 900px;
+    width: 1500px;
+}
+}
